@@ -39,6 +39,6 @@
 
 - GitHub: [@haseduu](https://github.com/haseduu)
 - Email: haseduuu@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/eduardo-hasegawa-79a075290/)
+- LinkedIn: [Meu Linkedin](https://www.linkedin.com/in/eduardo-hasegawa-79a075290/)
 
 ⭐️ From [haseduu](https://github.com/haseduu)
