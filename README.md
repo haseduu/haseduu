@@ -33,7 +33,7 @@
 ## 📌 Pinned Repositories
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=haseduu&repo=truco-IA&theme=radical)](https://github.com/haseduu/truco-IA)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=haseduu&repo=aLIVEches&theme=radical)](https://github.com/haseduu/aLIVEchess)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=haseduu&repo=aLIVEchess&theme=radical)](https://github.com/haseduu/aLIVEchess)
 
 ## 📫 Get in Touch
 
